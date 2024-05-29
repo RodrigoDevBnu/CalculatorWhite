@@ -1,5 +1,29 @@
-Calculadora WebEste é um projeto de uma calculadora web simples, desenvolvido para praticar HTML, CSS e JavaScript. A calculadora realiza operações básicas como adição, subtração, multiplicação e divisão, além de operações avançadas como raiz quadrada, porcentagem e memória.FuncionalidadesAdiçãoSubtraçãoMultiplicaçãoDivisãoRaiz quadradaPorcentagemMemória (m+ e m-)Limpar telaTecnologias UtilizadasHTML: Estrutura da calculadora.CSS: Estilização da calculadora.JavaScript: Lógica das operações matemáticas.Como UsarVocê pode acessar a calculadora online aqui.Estrutura do ProjetoCalculatorWhite/
-│
-├── index.html        # Estrutura HTML da calculadora
-├── style.css         # Estilos CSS para a calculadora
-└── script.js         # Lógica JavaScript da calculadoraContribuiçãoSe você quiser contribuir para este projeto, sinta-se à vontade para abrir um pull request. Serão bem-vindas correções de bugs, melhorias na interface e novas funcionalidades.LicençaEste projeto está licenciado sob a ISC License. 
+Calculadora Web📱
+
+Este é um projeto de uma calculadora web simples, 
+desenvolvido para praticar HTML, CSS e JavaScript. 
+A calculadora realiza operações básicas como adição, 
+subtração, multiplicação e divisão, além de operações
+avançadas como raiz quadrada, porcentagem e memória.
+
+Funcionalidades
+
+-Adição
+-Subtração
+-Multiplicação
+-Divisão
+-Raiz quadrada
+-Porcentagem
+-Memória (m+ e m-)
+-Limpar tela
+
+Tecnologias Utilizadas
+
+HTML: Estrutura da calculadora.
+CSS: Estilização da calculadora.
+JavaScript: Lógica das operações 
+matemáticas.
+
+Você pode acessar a calculadora
+online pelo seguinte link: 
+https://rodrigodevbnu.github.io/CalculatorWhite/
